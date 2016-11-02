@@ -1,0 +1,16 @@
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.exe.config
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.csprojResolveAssemblyReference.cache
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.Form1.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.Properties.Resources.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.csproj.GenerateResource.Cache
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.exe
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.pdb
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.Form2.resources
+c:\users\gerbster\documents\visual studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.Form3.resources
+C:\Users\gerbster\Documents\Visual Studio 2015\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.exe.manifest
+C:\Users\gerbster\Documents\Visual Studio 2015\Projects\UserLogin\UserLogin\bin\Debug\UserLogin.application
+C:\Users\gerbster\Documents\Visual Studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.TrustInfo.xml
+C:\Users\gerbster\Documents\Visual Studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.exe.manifest
+C:\Users\gerbster\Documents\Visual Studio 2015\Projects\UserLogin\UserLogin\obj\Debug\UserLogin.application
